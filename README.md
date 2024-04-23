@@ -1,6 +1,6 @@
 # Datamaker-Chatproxy
 
-OpenAI-compatible proxy server that stores messages exchanged between the server and the client as a ShareGPT dataset to be used for training/finetuning.
+Proxy server that automatically stores messages exchanged between any OAI-compatible frontend and backend as a ShareGPT dataset to be used for training/finetuning.
 
 Sits as a proxy between any OAI-compatible frontend and any OAI-compatible API (including the real OpenAI API), for example: SillyTavern <-> Proxy <-> TabbyAPI.
 
